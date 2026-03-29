@@ -1,8 +1,9 @@
-# type_check
+# type-check
 
-type_check: Single-file Python CLI tool. Zero dependencies, Python 3.8+.
+Runtime type checker with decorators. Zero dependencies, single file, Python 3.8+.
 
 ## Usage
+
 ```bash
-python3 type_check.py --test
+python3 type_check.py --help
 ```
