@@ -1,11 +1,8 @@
 # type_check
 
-type_check: Simple type checker for a typed lambda calculus.
-
-Single-file, zero-dependency Python CLI.
+type_check: Single-file Python CLI tool. Zero dependencies, Python 3.8+.
 
 ## Usage
-
 ```bash
-python3 type_check.py test
+python3 type_check.py --test
 ```
